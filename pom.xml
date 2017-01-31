@@ -4,7 +4,11 @@
   <groupId>CMADSession</groupId>
   <artifactId>CMADSession</artifactId>
   <packaging>war</packaging>
+<<<<<<< HEAD
   <version>0.0.13-SNAPSHOT</version>
+=======
+  <version>0.0.12-SNAPSHOT</version>
+>>>>>>> beda69bb638eb20e4d70487e3a64af00c3d7a92b
   <name>CMADSession Maven Webapp</name>
   <url>http://maven.apache.org</url>
    <properties>
